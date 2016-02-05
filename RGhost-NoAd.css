@@ -1,0 +1,15 @@
+@-moz-document domain("rghost.ru")
+/*
+ * RGhost.ru Ad Remover
+ */
+{
+	.col-sm-8
+	{
+		width: 100% !important;
+	}
+
+	.right-wrapper, .left-wrapper, .bottom-wrapper
+	{
+		display: none !important;
+	}
+}
